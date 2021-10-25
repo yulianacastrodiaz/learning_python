@@ -44,3 +44,8 @@ print(type((10, 20, 30, 40)))
 
 {"name": "Yuli", "surname": "Castro", "nickname": "Pame"}
 print(type({"name": "Yuli", "surname": "Castro", "nickname": "Pame"}))
+
+
+# None
+
+print(type(None))
