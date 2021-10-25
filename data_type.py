@@ -32,3 +32,9 @@ print(type(False))
 print(type([20, 30, 40, 50]))
 ["Hello", "Bye", "Adiós"]
 print(type(["Hello", "Bye", "Adiós"]))
+
+
+# Tuples
+
+(10, 20, 30, 40)
+print(type((10, 20, 30, 40)))
