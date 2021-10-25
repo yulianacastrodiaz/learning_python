@@ -25,3 +25,10 @@ print(type(30.5))
 # Boolean
 print(type(True))
 print(type(False))
+
+
+# List
+[20, 30, 40, 50]
+print(type([20, 30, 40, 50]))
+["Hello", "Bye", "Adiós"]
+print(type(["Hello", "Bye", "Adiós"]))
