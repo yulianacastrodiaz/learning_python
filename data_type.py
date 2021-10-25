@@ -20,3 +20,8 @@ print(type(30))
 # Float
 print(30.5)
 print(type(30.5))
+
+
+# Boolean
+print(type(True))
+print(type(False))
