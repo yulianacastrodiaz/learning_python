@@ -38,3 +38,9 @@ print(type(["Hello", "Bye", "Adiós"]))
 
 (10, 20, 30, 40)
 print(type((10, 20, 30, 40)))
+
+
+# Dictionaries
+
+{"name": "Yuli", "surname": "Castro", "nickname": "Pame"}
+print(type({"name": "Yuli", "surname": "Castro", "nickname": "Pame"}))
