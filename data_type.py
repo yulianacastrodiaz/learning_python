@@ -9,3 +9,14 @@ print(type("Hello world"))
 
 # concatenar
 print("Bye" + " " + "world")
+
+
+# Numbers
+
+# Integer
+print(30)
+print(type(30))
+
+# Float
+print(30.5)
+print(type(30.5))
