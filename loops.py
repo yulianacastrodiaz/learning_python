@@ -1,3 +1,6 @@
+from ast import parse
+
+
 foods = ["apples", "bread", "cheese", "milk", "bananas", "grapes"]
 
 for food in foods:
