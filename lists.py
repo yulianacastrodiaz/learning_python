@@ -40,3 +40,11 @@ print(colors.count("pink"))
 
 colors.clear()
 print(colors)
+
+demo_list += [4, 5, 6]
+print(demo_list)
+
+print(min(numbers_list))
+print(max(numbers_list))
+
+help(numbers_list)
