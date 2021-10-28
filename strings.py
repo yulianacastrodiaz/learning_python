@@ -26,3 +26,6 @@ print(my_str.find("o"))
 print(len(my_str))
 print(my_str.index("e"))
 print(my_str.count("l"))
+
+print(",".join(["nombre", "apellido", "ciudad"]))
+print(",".join("nombre"))
